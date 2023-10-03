@@ -1,0 +1,385 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "success": {
+      "type": "boolean"
+    },
+    "data": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "TotalCount": {
+              "type": "integer"
+            },
+            "Addresses": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "Present": {
+                      "type": "string"
+                    },
+                    "Warehouses": {
+                      "type": "integer"
+                    },
+                    "MainDescription": {
+                      "type": "string"
+                    },
+                    "Area": {
+                      "type": "string"
+                    },
+                    "Region": {
+                      "type": "string"
+                    },
+                    "SettlementTypeCode": {
+                      "type": "string"
+                    },
+                    "Ref": {
+                      "type": "string"
+                    },
+                    "DeliveryCity": {
+                      "type": "string"
+                    },
+                    "AddressDeliveryAllowed": {
+                      "type": "boolean"
+                    },
+                    "StreetsAvailability": {
+                      "type": "boolean"
+                    },
+                    "ParentRegionTypes": {
+                      "type": "string"
+                    },
+                    "ParentRegionCode": {
+                      "type": "string"
+                    },
+                    "RegionTypes": {
+                      "type": "string"
+                    },
+                    "RegionTypesCode": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "Present",
+                    "Warehouses",
+                    "MainDescription",
+                    "Area",
+                    "Region",
+                    "SettlementTypeCode",
+                    "Ref",
+                    "DeliveryCity",
+                    "AddressDeliveryAllowed",
+                    "StreetsAvailability",
+                    "ParentRegionTypes",
+                    "ParentRegionCode",
+                    "RegionTypes",
+                    "RegionTypesCode"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "Present": {
+                      "type": "string"
+                    },
+                    "Warehouses": {
+                      "type": "integer"
+                    },
+                    "MainDescription": {
+                      "type": "string"
+                    },
+                    "Area": {
+                      "type": "string"
+                    },
+                    "Region": {
+                      "type": "string"
+                    },
+                    "SettlementTypeCode": {
+                      "type": "string"
+                    },
+                    "Ref": {
+                      "type": "string"
+                    },
+                    "DeliveryCity": {
+                      "type": "string"
+                    },
+                    "AddressDeliveryAllowed": {
+                      "type": "boolean"
+                    },
+                    "StreetsAvailability": {
+                      "type": "boolean"
+                    },
+                    "ParentRegionTypes": {
+                      "type": "string"
+                    },
+                    "ParentRegionCode": {
+                      "type": "string"
+                    },
+                    "RegionTypes": {
+                      "type": "string"
+                    },
+                    "RegionTypesCode": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "Present",
+                    "Warehouses",
+                    "MainDescription",
+                    "Area",
+                    "Region",
+                    "SettlementTypeCode",
+                    "Ref",
+                    "DeliveryCity",
+                    "AddressDeliveryAllowed",
+                    "StreetsAvailability",
+                    "ParentRegionTypes",
+                    "ParentRegionCode",
+                    "RegionTypes",
+                    "RegionTypesCode"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "Present": {
+                      "type": "string"
+                    },
+                    "Warehouses": {
+                      "type": "integer"
+                    },
+                    "MainDescription": {
+                      "type": "string"
+                    },
+                    "Area": {
+                      "type": "string"
+                    },
+                    "Region": {
+                      "type": "string"
+                    },
+                    "SettlementTypeCode": {
+                      "type": "string"
+                    },
+                    "Ref": {
+                      "type": "string"
+                    },
+                    "DeliveryCity": {
+                      "type": "string"
+                    },
+                    "AddressDeliveryAllowed": {
+                      "type": "boolean"
+                    },
+                    "StreetsAvailability": {
+                      "type": "boolean"
+                    },
+                    "ParentRegionTypes": {
+                      "type": "string"
+                    },
+                    "ParentRegionCode": {
+                      "type": "string"
+                    },
+                    "RegionTypes": {
+                      "type": "string"
+                    },
+                    "RegionTypesCode": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "Present",
+                    "Warehouses",
+                    "MainDescription",
+                    "Area",
+                    "Region",
+                    "SettlementTypeCode",
+                    "Ref",
+                    "DeliveryCity",
+                    "AddressDeliveryAllowed",
+                    "StreetsAvailability",
+                    "ParentRegionTypes",
+                    "ParentRegionCode",
+                    "RegionTypes",
+                    "RegionTypesCode"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "Present": {
+                      "type": "string"
+                    },
+                    "Warehouses": {
+                      "type": "integer"
+                    },
+                    "MainDescription": {
+                      "type": "string"
+                    },
+                    "Area": {
+                      "type": "string"
+                    },
+                    "Region": {
+                      "type": "string"
+                    },
+                    "SettlementTypeCode": {
+                      "type": "string"
+                    },
+                    "Ref": {
+                      "type": "string"
+                    },
+                    "DeliveryCity": {
+                      "type": "string"
+                    },
+                    "AddressDeliveryAllowed": {
+                      "type": "boolean"
+                    },
+                    "StreetsAvailability": {
+                      "type": "boolean"
+                    },
+                    "ParentRegionTypes": {
+                      "type": "string"
+                    },
+                    "ParentRegionCode": {
+                      "type": "string"
+                    },
+                    "RegionTypes": {
+                      "type": "string"
+                    },
+                    "RegionTypesCode": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "Present",
+                    "Warehouses",
+                    "MainDescription",
+                    "Area",
+                    "Region",
+                    "SettlementTypeCode",
+                    "Ref",
+                    "DeliveryCity",
+                    "AddressDeliveryAllowed",
+                    "StreetsAvailability",
+                    "ParentRegionTypes",
+                    "ParentRegionCode",
+                    "RegionTypes",
+                    "RegionTypesCode"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "Present": {
+                      "type": "string"
+                    },
+                    "Warehouses": {
+                      "type": "integer"
+                    },
+                    "MainDescription": {
+                      "type": "string"
+                    },
+                    "Area": {
+                      "type": "string"
+                    },
+                    "Region": {
+                      "type": "string"
+                    },
+                    "SettlementTypeCode": {
+                      "type": "string"
+                    },
+                    "Ref": {
+                      "type": "string"
+                    },
+                    "DeliveryCity": {
+                      "type": "string"
+                    },
+                    "AddressDeliveryAllowed": {
+                      "type": "boolean"
+                    },
+                    "StreetsAvailability": {
+                      "type": "boolean"
+                    },
+                    "ParentRegionTypes": {
+                      "type": "string"
+                    },
+                    "ParentRegionCode": {
+                      "type": "string"
+                    },
+                    "RegionTypes": {
+                      "type": "string"
+                    },
+                    "RegionTypesCode": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "Present",
+                    "Warehouses",
+                    "MainDescription",
+                    "Area",
+                    "Region",
+                    "SettlementTypeCode",
+                    "Ref",
+                    "DeliveryCity",
+                    "AddressDeliveryAllowed",
+                    "StreetsAvailability",
+                    "ParentRegionTypes",
+                    "ParentRegionCode",
+                    "RegionTypes",
+                    "RegionTypesCode"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "TotalCount",
+            "Addresses"
+          ]
+        }
+      ]
+    },
+    "errors": {
+      "type": "array",
+      "items": {}
+    },
+    "warnings": {
+      "type": "array",
+      "items": {}
+    },
+    "info": {
+      "type": "array",
+      "items": {}
+    },
+    "messageCodes": {
+      "type": "array",
+      "items": {}
+    },
+    "errorCodes": {
+      "type": "array",
+      "items": {}
+    },
+    "warningCodes": {
+      "type": "array",
+      "items": {}
+    },
+    "infoCodes": {
+      "type": "array",
+      "items": {}
+    }
+  },
+  "required": [
+    "success",
+    "data",
+    "errors",
+    "warnings",
+    "info",
+    "messageCodes",
+    "errorCodes",
+    "warningCodes",
+    "infoCodes"
+  ]
+}
